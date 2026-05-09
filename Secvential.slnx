@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Secvential/Secvential.vcxproj" Id="be1ca82a-fd46-4ac9-950f-74576367cec8" />
-</Solution>
